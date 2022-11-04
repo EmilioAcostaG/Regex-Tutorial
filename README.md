@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Tutorial: 
 
 Introductory paragraph (replace this with your text)
 
@@ -19,6 +19,8 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+
+<br>
 
 ## Regex Components
 
